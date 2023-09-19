@@ -1,0 +1,19 @@
+==> 2023-09-17 14:26:46 <==
+# cmd: /home/kartik/anaconda3/bin/conda create -n py2 python=2.7 --no-default-packages
+# conda version: 4.5.11
++defaults::_libgcc_mutex-0.1-main
++defaults::ca-certificates-2023.08.22-h06a4308_0
++defaults::certifi-2020.6.20-pyhd3eb1b0_3
++defaults::libffi-3.3-he6710b0_2
++defaults::libgcc-ng-9.1.0-hdf63c60_0
++defaults::libstdcxx-ng-9.1.0-hdf63c60_0
++defaults::ncurses-6.3-h7f8727e_2
++defaults::pip-19.3.1-py27_0
++defaults::python-2.7.18-ha1903f6_2
++defaults::readline-8.1.2-h7f8727e_1
++defaults::setuptools-44.0.0-py27_0
++defaults::sqlite-3.38.5-hc218d9a_0
++defaults::tk-8.6.12-h1ccaba5_0
++defaults::wheel-0.37.1-pyhd3eb1b0_0
++defaults::zlib-1.2.12-h7f8727e_2
+# update specs: ['python=2.7']

@@ -1,0 +1,13 @@
+prefix=/home/kartik/anaconda3/envs/py2
+exec_prefix=/home/kartik/anaconda3/envs/py2
+libdir=/home/kartik/anaconda3/envs/py2/lib
+sharedlibdir=/home/kartik/anaconda3/envs/py2/lib
+includedir=/home/kartik/anaconda3/envs/py2/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
